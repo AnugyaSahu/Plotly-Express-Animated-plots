@@ -6,4 +6,4 @@ Plotly Express is a high-level interface to Plotly, which is a popular data visu
 
 The Gapminder dataset includes data about various countries, tracking indicators like GDP per capita, life expectancy, and population over time. The ipynb files contains codes and the plots can be seen in the pdf file; interactive plots were inspired by Tableau's animated visualizations.
 
-
+[2022]
